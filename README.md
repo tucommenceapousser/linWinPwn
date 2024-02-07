@@ -21,7 +21,7 @@ proxychains ./linWinPwn.sh -t <Domain_Controller_IP>
 Git clone the repository and make the script executable
 
 ```bash
-git clone https://github.com/lefayjey/linWinPwn
+git clone https://github.com/tucommenceapousser/linWinPwn
 cd linWinPwn; chmod +x linWinPwn.sh
 ```
 
